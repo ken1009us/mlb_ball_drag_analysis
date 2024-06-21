@@ -113,6 +113,3 @@ $ cd mlb_ball_drag_analysis
 ```bash
 $ pip install -r requirements.txt
 ```
-
-## Reference
-
